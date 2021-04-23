@@ -6,7 +6,7 @@ public class UserBean{
 	private String userRealname;//员工姓名
 	private String userMobileno;//手机号
 	private String isEnabled;//是否启用
-	private String isAccountNonLocked;//
+	private String isAccountNonLocked;//冠福股份
 	private String username;//登录名
 	private Integer  roleId;//用户所属的角色
 	private String userType;//用户类型
