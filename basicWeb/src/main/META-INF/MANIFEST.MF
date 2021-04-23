@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Main-Class: cn.goodata.demo.DemoApplication
+Class-Path: jackson-datatype-jsr310-2.11.4.jar spring-boot-starter-loggi
+ ng-2.3.9.RELEASE.jar spring-boot-starter-jdbc-2.3.9.RELEASE.jar spring-
+ boot-devtools-2.3.9.RELEASE.jar mybatis-spring-boot-autoconfigure-2.1.4
+ .jar jackson-databind-2.11.4.jar spring-boot-2.3.9.RELEASE.jar mybatis-
+ spring-boot-starter-2.1.4.jar tomcat-embed-jasper-9.0.43.jar jackson-mo
+ dule-parameter-names-2.11.4.jar jsqlparser-4.0.jar spring-boot-autoconf
+ igure-2.3.9.RELEASE.jar mybatis-plus-extension-3.4.2.jar mybatis-plus-a
+ nnotation-3.4.2.jar snakeyaml-1.26.jar tomcat-embed-el-9.0.43.jar sprin
+ g-expression-5.2.13.RELEASE.jar spring-security-web-5.3.8.RELEASE.jar s
+ pring-boot-starter-2.3.9.RELEASE.jar jackson-core-2.11.4.jar spring-sec
+ urity-config-5.3.8.RELEASE.jar jul-to-slf4j-1.7.30.jar spring-security-
+ core-5.3.8.RELEASE.jar spring-core-5.2.13.RELEASE.jar mysql-connector-j
+ ava-8.0.23.jar mybatis-plus-core-3.4.2.jar logback-classic-1.2.3.jar my
+ batis-plus-3.4.2.jar spring-aop-5.2.13.RELEASE.jar log4j-to-slf4j-2.13.
+ 3.jar HikariCP-3.4.5.jar jstl-1.2.jar javax.servlet-api-4.0.1.jar jakar
+ ta.annotation-api-1.3.5.jar fastjson-1.2.75.jar log4j-api-2.13.3.jar co
+ mmons-dbcp2-2.7.0.jar commons-pool2-2.8.1.jar jackson-annotations-2.11.
+ 4.jar mybatis-3.5.6.jar jackson-datatype-jdk8-2.11.4.jar spring-beans-5
+ .2.13.RELEASE.jar spring-context-5.2.13.RELEASE.jar spring-jdbc-5.2.13.
+ RELEASE.jar spring-boot-starter-security-2.3.9.RELEASE.jar spring-webmv
+ c-5.2.13.RELEASE.jar spring-web-5.2.13.RELEASE.jar tomcat-embed-core-9.
+ 0.43.jar mybatis-spring-2.0.6.jar logback-core-1.2.3.jar spring-jcl-5.2
+ .13.RELEASE.jar spring-tx-5.2.13.RELEASE.jar slf4j-api-1.7.30.jar ecj-3
+ .18.0.jar mybatis-plus-boot-starter-3.4.2.jar spring-boot-starter-json-
+ 2.3.9.RELEASE.jar spring-boot-starter-web-2.3.9.RELEASE.jar
+
