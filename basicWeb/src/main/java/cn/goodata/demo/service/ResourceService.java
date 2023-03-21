@@ -21,7 +21,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class ResourceService extends ServiceImpl<ResourceDao, Resource> {
-
+  //查询所
   public String getTreePanelList(){
 		  QueryWrapper<Resource> wrapper = new QueryWrapper<Resource>();
 		  wrapper.eq("parentId",0);
